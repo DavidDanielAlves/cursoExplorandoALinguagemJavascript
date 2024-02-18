@@ -4,9 +4,9 @@ console.log(`Trabalhando com listas`);
 // const rioDeJaneiro = `Rio de Janeiro`;
 
 const listaDeDestinos = new Array(
-    `Salvador`,
-    `São Paulo`,
-    `Rio de Janeiro`
+    `Estados Unidos`,
+    `Paris`,
+    `Canada`
 );
 
 listaDeDestinos.push(`Curitiba`) // adicionando um item na lista
